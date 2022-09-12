@@ -1,0 +1,16 @@
+body{
+    font-family: Courier, "Times New Roman", Impact;
+    line-height: 2;
+    color: darkred;
+    background-color: lightyellow;
+    font-size: 20px;
+}
+img{
+    border: 25px dotted green;
+    border-radius: 5%;
+    border-width: 5px;
+}
+
+li{
+    border: solid 10px pink;
+}
